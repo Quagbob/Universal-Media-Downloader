@@ -3,7 +3,11 @@
 [![Latest Release](https://shields.io)](https://github.com/Quagbob/Universal-Media-Downloader/releases/tag/Downloader)
 
 ***
+## Preview
 
+<img width="540" height="471" alt="62638f88ecca301c89e4d955a310940c" src="https://github.com/user-attachments/assets/0bfa460f-5e72-492c-9f95-4df36e98465d" />
+
+***
 ## 🚀 Quick Start Guide
 
 To ensure the downloader works perfectly without any errors, please follow these simple rules:
