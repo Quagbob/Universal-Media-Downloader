@@ -1,6 +1,6 @@
 # Universal Media Downloader
 
-[![Latest Release](https://shields.io)](https://github.com)
+[![Latest Release](https://shields.io)]([https://github.com](https://github.com/Quagbob/Universal-Media-Downloader/releases/tag/Downloader))
 
 ***
 
