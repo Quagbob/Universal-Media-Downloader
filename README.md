@@ -5,7 +5,7 @@
 ***
 ## Preview
 
-<img width="1228" height="788" alt="image" src="https://github.com/user-attachments/assets/3d9a5f73-8f04-4fef-992e-3d50e25042a5" />
+<img width="1227" height="784" alt="image" src="https://github.com/user-attachments/assets/553591bf-a7ea-44d0-93c6-768c04fb3771" />
 
 ***
 ## 🚀 Quick Start Guide
